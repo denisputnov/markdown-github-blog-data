@@ -1,0 +1,10 @@
+{
+  "title": "​Function expression vs Function declaration",
+  "author": "Денис Путнов",
+  "date": "05-06-2021",
+  "tags": [
+    "javascript"
+  ],
+  "preview": "На примерах рассмотрим ещё один популярный вопрос с собеседований об особенностях способов объявления функций",
+  "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCf-Cn3b--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/cfe13d79d4a3/download/Image%25202018-11-29%2520at%25201.17.04%2520PM.png"
+}

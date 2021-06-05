@@ -1,0 +1,13 @@
+{
+  "title": "Итерирование по сущностям: reduce",
+  "author": "Денис Путнов",
+  "date": "10-05-2021",
+  "tags": [
+    "javascript",
+    "web",
+    "theory",
+    "useful"
+  ],
+  "preview": "Разберём интересный и полезный метод перебора массива reduce и разберемся в его полной сигнатуре",
+  "img": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+}
